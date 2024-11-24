@@ -1,0 +1,4 @@
+#Mon May 06 18:24:16 EDT 2024
+base.0=C\:\\Users\\jaina\\OneDrive\\Desktop\\CSV 285\\final workinng\\Finance-App-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

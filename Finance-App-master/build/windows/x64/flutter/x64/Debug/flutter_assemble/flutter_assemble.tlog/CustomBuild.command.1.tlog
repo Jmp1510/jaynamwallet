@@ -1,0 +1,28 @@
+^C:\USERS\JAINA\ONEDRIVE\DESKTOP\CSV 285\FINAL WORKINNG\FINANCE-APP-MASTER\BUILD\WINDOWS\X64\CMAKEFILES\AC85F75ED0B3B1AFBF5794189D1ED867\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\jaina\OneDrive\Documents\dev\flutter\flutter "PROJECT_DIR=C:\Users\jaina\OneDrive\Desktop\CSV 285\final workinng\Finance-App-master" FLUTTER_ROOT=C:\Users\jaina\OneDrive\Documents\dev\flutter\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\jaina\OneDrive\Desktop\CSV 285\final workinng\Finance-App-master\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\jaina\OneDrive\Desktop\CSV 285\final workinng\Finance-App-master" "FLUTTER_TARGET=C:\Users\jaina\OneDrive\Desktop\CSV 285\final workinng\Finance-App-master\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9jNGNkNDhlMTg2NDYwYjMyZDQ0NTg1Y2UzYzEwMzI3MWFiNjc2MzU1Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\jaina\OneDrive\Desktop\CSV 285\final workinng\Finance-App-master\.dart_tool\package_config.json" C:/Users/jaina/OneDrive/Documents/dev/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JAINA\ONEDRIVE\DESKTOP\CSV 285\FINAL WORKINNG\FINANCE-APP-MASTER\BUILD\WINDOWS\X64\CMAKEFILES\65DF2919B08B201ABAC03FCFA91F5C54\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JAINA\ONEDRIVE\DESKTOP\CSV 285\FINAL WORKINNG\FINANCE-APP-MASTER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/jaina/OneDrive/Desktop/CSV 285/final workinng/Finance-App-master/windows" "-BC:/Users/jaina/OneDrive/Desktop/CSV 285/final workinng/Finance-App-master/build/windows/x64" --check-stamp-file "C:/Users/jaina/OneDrive/Desktop/CSV 285/final workinng/Finance-App-master/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
